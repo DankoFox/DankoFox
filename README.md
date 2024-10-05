@@ -1,16 +1,14 @@
-## Hi there 👋
+### Welcome ദ്ദി ( ᵔ ᗜ ᵔ )
 
-<!--
-**DankoFox/DankoFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Full-Time Config Tweaker by day ☼ and a Professional Discord Yapper by night ☾
 
-Here are some ideas to get you started:
+Full-Time Student at [Ho Chi Minh City University of Technology](https://oisp.hcmut.edu.vn/en/)<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ I code daily in: `.java`, `.css`, `.lua`, `.cpp`, `.lmao`
+- 💻 I use 🌌 [EndeavourOS](https://endeavouros.com/) and [Hyprland](https://hyprland.org/) as my daily driver
+- ✨ `Interests` : Database 📊, Network 🕸 and Server 🖥
+- 🎸 `Hobbies` : Messing with my Guitar, Jumping into a new rabbit hole on Reddit every week, cheap IEMs (I'm broke (╥﹏╥))
+
+<br>
+
+![DankoFox's github stats](https://github-readme-stats.vercel.app/api?username=DankoFox&theme=rose_pine&show_icons=true)
