@@ -12,4 +12,4 @@ Full-Time Student at [Ho Chi Minh City University of Technology](https://oisp.hc
 - 🎸 `Hobbies` : Guitar, Learning Japanese, ̶C̶o̶d̶e̶ & Gaming
 <br>
 
-![DankoFox's github stats](https://github-readme-stats.vercel.app/api?username=DankoFox&show_icons=true&theme=apprentice&hide_rank=true&text_bold=true&disable_animations=true)
+![image](https://github.com/user-attachments/assets/f9b23e96-3cf4-4058-a649-b2f6acc1eb75)
