@@ -7,7 +7,7 @@
 Full-Time Student at [Ho Chi Minh City University of Technology](https://oisp.hcmut.edu.vn/en/)<br>
 
 - ⚙️ I code daily in: `.java`, `.css`, `.lua`, `.cpp`, `.lmao`
-- 💻 I use 🌌 [EndeavourOS](https://endeavouros.com/) and [Hyprland](https://hyprland.org/) as my daily driver
+- 💻 I use 🌌 [EndeavourOS](https://endeavouros.com/) (Arch btw) and [Hyprland](https://hyprland.org/) as my daily driver
 - ✨ `Interests` : Database 📊, Network 🕸 and Server 🖥
 - 🎸 `Hobbies` : Guitar, Learning Japanese, ̶C̶o̶d̶e̶ & Gaming
   
