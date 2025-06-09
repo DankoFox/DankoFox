@@ -5,7 +5,7 @@
 #### 🧠 Professional Homo sapien | 🗣 Full-Time Yapper | 🥀 Part-Time Migraineur | Not that guy
 
 Senior soul trapped at [Horrors, Cramming & Midterms University of Torment (HCMUT)](https://oisp.hcmut.edu.vn/en/)<br>
-🎓 Major: Back Pain Engineering • Minor: Sleep Deprivation  
+🎓 Major: Backe̶n̶d̶ Pain Engineering • Minor: Sleep Deprivation  
 
 - ⚙️ I code daily in: `.java`, `.css`, `.lua`, `.cpp`, `.lmao`
 - 💻 I use 🌌 [EndeavourOS](https://endeavouros.com/) (Arch btw) and [Hyprland](https://hyprland.org/) (i like my window manager unstable bruh, like my sleep schedule)
