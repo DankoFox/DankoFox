@@ -2,7 +2,7 @@
 
 ---
 
-#### 🧠 Professional Homo sapiens | 🗣 Full-Time Yapper | 🥀 Part-Time Migraineur | Not that guy
+#### 🧠 Professional Homo sapien | 🗣 Full-Time Yapper | 🥀 Part-Time Migraineur | Not that guy
 
 Senior soul trapped at [Horrors, Cramming & Midterms University of Torment (HCMUT)](https://oisp.hcmut.edu.vn/en/)<br>
 🎓 Major: Back Pain Engineering • Minor: Sleep Deprivation  
