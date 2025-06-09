@@ -2,14 +2,15 @@
 
 ---
 
-#### I'm Full-Time Config Tweaker by day ☼ and a Professional Discord Yapper by night ☾
+#### 🧠 Professional Homo sapiens | 🗣 Full-Time Yapper | 🥀 Part-Time Migraineur | Not that guy
 
-Full-Time Student at [Ho Chi Minh City University of Technology](https://oisp.hcmut.edu.vn/en/)<br>
+Senior soul trapped at [Horrors, Cramming & Midterms University of Torment (HCMUT)](https://oisp.hcmut.edu.vn/en/)<br>
+🎓 Major: Back Pain Engineering • Minor: Sleep Deprivation  
 
 - ⚙️ I code daily in: `.java`, `.css`, `.lua`, `.cpp`, `.lmao`
-- 💻 I use 🌌 [EndeavourOS](https://endeavouros.com/) (Arch btw) and [Hyprland](https://hyprland.org/) as my daily driver
-- ✨ `Interests` : Database 📊, Network 🕸 and Server 🖥
-- 🎸 `Hobbies` : Guitar, Learning Japanese, ̶C̶o̶d̶e̶ & Gaming
+- 💻 I use 🌌 [EndeavourOS](https://endeavouros.com/) (Arch btw) and [Hyprland](https://hyprland.org/) (i like my window manager unstable bruh, like my sleep schedule)
+- ✨ `Interests` : Database 📊, Network 🕸, Server 🖥 and good looking boys
+- 🎸 `Hobbies` : Guitar, Japanese, ̶C̶o̶d̶e̶ & Gaming
   
 <h2 align="left">Languages and Frameworks</h2>
 
@@ -24,8 +25,6 @@ Full-Time Student at [Ho Chi Minh City University of Technology](https://oisp.hc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
