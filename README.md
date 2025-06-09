@@ -70,3 +70,10 @@ Senior soul trapped at [Horrors, Cramming & Midterms University of Torment (HCMU
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
 </div>
+
+---
+
+> 📜 **Book of Bepis 4:20**  
+> "Ye shall lie with a man as well as with a woman,  
+> for the heart is fruity and the flesh is weak,  
+> and lo, the chat hath spoken."
