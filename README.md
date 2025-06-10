@@ -73,7 +73,11 @@ Senior soul trapped at [Horrors, Cramming & Midterms University of Torment (HCMU
 
 ---
 
-> 📜 **Book of Bepis 4:20**  
-> "Ye shall lie with a man as well as with a woman,  
-> for the heart is fruity and the flesh is weak,  
-> and lo, the chat hath spoken."
+> “You must answer: is this [██████]licious, or is this divine intellect?  
+> And that’s the question I’ll leave — I’ll leave you with that.  
+> You know, Google, they ask you interview questions...  
+> Well, the kind of question I face on the job is:  
+> _Is this [██████]licious?_  
+> Is this too much voodoo for our purposes,  
+> for our mission statement.”  
+> — **Terry A. Davis**, TempleOS
